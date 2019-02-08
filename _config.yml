@@ -65,9 +65,14 @@ sass:
 encoding: utf-8
 
 # other settings
-highlighter: rouge
-markdown: kramdown
 kramdown:
-  input: GFM
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
   syntax_highlighter: rouge
 
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
