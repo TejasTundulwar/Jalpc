@@ -15,7 +15,7 @@ author:  # change following line to your infomation.
   name: Tejas Tundulwar  # Be used at blog posts' author.
   first_name: Tejas  # Be used at index page about me section.
   last_name: Tundulwar  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpeg  # upload your avatar at directory and edit it.
   github_username: TejasTundulwar # Leave blank if you don't have now
   linkedin_id: www.linkedin.com/in/
 tejas-tundulwar-36094782
