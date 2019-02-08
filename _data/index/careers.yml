@@ -1,21 +1,64 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Masters in Science in Computer Science
+    i18n: company_a
+  desc:
+    detail: 
+* Wrote Shell Scripts and filters to sniff the network with wireshark and extract information from the desired devices.
+* Wrote Shell scripts for OpenWRT routers to collect and transfer data through the network.
+* Wrote cron jobs on the server to process the received data using Php scripts and store the data in the database.
+* Wrote triggers in SQL to process the data to find the locations of the corresponding devices with respect to the sensors and track them at regular intervals.
+* Configured a wireless mesh network and tested at various locations.
+* Collaborated with local chapters of PMI and ISACA to implement this system to get foot count at their events. 
+    i18n: company_a_desc
+  date:
+    detail: August 2017 - May 2019
+    i18n: company_a_date
+  job:
+    detail: Graduate Student at California State University, Long Beach
+    i18n: company_a_job
+  icon: fa-plus-square
+
+
+
+
+- name:
     detail: Vinson Technologies LLP
     i18n: company_a
   desc:
     detail: 
- Wrote Shell Scripts and filters to sniff the network with wireshark and extract information from the desired devices.
- Wrote Shell scripts for OpenWRT routers to collect and transfer data through the network.
- Wrote cron jobs on the server to process the received data using Php scripts and store the data in the database.
- Wrote triggers in SQL to process the data to find the locations of the corresponding devices with respect to the sensors and track them at regular intervals.
- Configured a wireless mesh network and tested at various locations.
- Collaborated with local chapters of PMI and ISACA to implement this system to get foot count at their events. 
+* Wrote Shell Scripts and filters to sniff the network with wireshark and extract information from the desired devices.
+* Wrote Shell scripts for OpenWRT routers to collect and transfer data through the network.
+* Wrote cron jobs on the server to process the received data using Php scripts and store the data in the database.
+* Wrote triggers in SQL to process the data to find the locations of the corresponding devices with respect to the sensors and track them at regular intervals.
+* Configured a wireless mesh network and tested at various locations.
+* Collaborated with local chapters of PMI and ISACA to implement this system to get foot count at their events. 
     i18n: company_a_desc
   date:
     detail: July 2016 - February 2017
     i18n: company_a_date
   job:
     detail: Associate Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+  
+  
+  
+  - name:
+    detail: Bachelors of Engineering in Computer Engineering
+    i18n: company_a
+  desc:
+    detail: 
+Data Structures, Algorithms, Theory of Computation, File Structure and Data Processing, System Software, Operating Systems, Object Oriented Programming(C++), Web
+Technologies, Database Management Systems, Software Engineering and Project Management, Computer Networks, Soft Computing, Web Communications and Mobile
+Computing, Multimedia Systems.  
+    i18n: company_a_desc
+  date:
+    detail: July 2012 - August 2016
+    i18n: company_a_date
+  job:
+    detail: Undergraduate Student at RTM Nagpur University
     i18n: company_a_job
   icon: fa-plus-square
